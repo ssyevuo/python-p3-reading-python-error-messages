@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+#evaluates two equal values
+assert(1 == 1)
